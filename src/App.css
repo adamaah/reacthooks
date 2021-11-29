@@ -1,3 +1,33 @@
+.titreHome {
+  text-align: center;
+  padding: 25px;
+  font-size: 35px;
+}
+
+.imagetaille {
+  width: 250px;
+  height: auto;
+  display: block;
+  margin: 20px auto;
+
+}
+
+.lestitres {
+  font-size: 20px;
+  text-align: center;
+}
+
+.addmovie {
+  background-color: #f9f9f9;
+  padding: 30px 40px;
+  display: block;
+  margin: 30px auto;
+}
+
+.champform {
+  margin-bottom: 30px;
+}
+
 .App {
   text-align: center;
 }
